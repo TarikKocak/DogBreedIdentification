@@ -13,5 +13,5 @@ Stanford Dogs Dataset: The dataset consists of two folders (train and test), wit
 Soruce: https://www.kaggle.com/datasets/miljan/stanford-dogs-dataset-traintest/data
 
 ### Tools & Platform
--Google Colab for GPU-based training and evaluation.
+-Google Colab for GPU-based training and evaluation.<br>
 -TensorFlow/Keras for model implementation.
